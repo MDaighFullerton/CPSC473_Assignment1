@@ -324,6 +324,7 @@ body {
 	display: flex;
 	flex-flow: row wrap;
 	align-items: flex-start;
+	min-width: 850px;
 }
 
 .page-main-subscribe-option {
